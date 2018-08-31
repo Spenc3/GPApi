@@ -3,15 +3,16 @@
   <groupId>com.moneris.googlepay</groupId>
   <artifactId>googlepayapi</artifactId>
   <versioning>
-    <release>0.8.6</release>
+    <release>0.9.0</release>
     <versions>
       <version>0.5.1</version>
       <version>0.6.0</version>
       <version>0.7.0</version>
       <version>0.8.0</version>
       <version>0.8.6</version>
+      <version>0.9.0</version>
     </versions>
-    <lastUpdated>20180831181820</lastUpdated>
+    <lastUpdated>20180831183820</lastUpdated>
   </versioning>
 </metadata>
 
